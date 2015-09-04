@@ -1,0 +1,79 @@
+/*Fondos*/
+#particles-js{
+	width: 100%;
+	height: 100%;
+	position: fixed;
+    background: rgba(0, 0, 0, .8);
+}
+
+.fondo-uni{
+    background: url(../img/fondo.jpg), #2A2C2B;
+    background-size: cover;
+    background-attachment: fixed; 
+}
+
+/*Timmer animation*/
+.espera1{
+    animation-delay: 1s;
+}
+
+.espera2{
+    animation-delay: 1.5s;
+}
+
+/*Colores*/
+.c-blanco{
+    color: #ECF0F1;
+}
+
+.c-naranja{
+	color: #E74C3C;
+}
+
+.c-azul{
+	color:#2980B9;
+}
+
+/*Espacios*/
+.espacio-hor-img{
+	margin-top: 9em;
+	margin-botton: 1em; 
+}
+
+.espacio-hor-img-chico{
+    margin-top: 3em;
+    margin-botton: 1em; 
+}
+
+.espacio-ver-social{
+    margin-top: .5em;   
+}
+
+
+/*Fonts*/
+.font-indie{
+    font-family: 'Indie Flower', cursive;  
+}
+
+.font-dancing{
+    font-family: 'Pacifico', cursive;
+}
+
+.font-righteous{
+    font-family: 'Righteous', cursive;    
+}
+
+.font-size-letter{
+    font-size: 1.3em;
+}
+
+.espacio-iconos{
+    letter-spacing: 5pt;
+}
+
+.size-icon{
+    font-size: 2em;
+}
+
+
+
